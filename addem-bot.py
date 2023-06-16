@@ -3,10 +3,10 @@ from telegram.error import TelegramError
 
 
 # Replace YOUR_TOKEN with your Telegram bot token
-bot = telegram.Bot(token='6224691866:AAHmB-2bhrh0KPwx0zXq3Qxk6NDHSUVWVsM')
+bot = telegram.Bot(token='YOUR_TOKEN')
 
 # Replace GROUP_CHAT_ID with the ID of the Telegram group you want to add users to
-group_chat_id = '8VK0zSTS6I9hYTNk'
+group_chat_id = 'GROUP_CHAT_ID'
 
 # List of usernames to add to the group
 usernames = ['@Q1d3r3r_P']
